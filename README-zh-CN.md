@@ -142,7 +142,7 @@
 - [x] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
 - [x] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
-- [ ] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
+- [x] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
 ## 有趣的机器学习
 - [ ] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
